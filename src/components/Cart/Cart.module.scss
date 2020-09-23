@@ -1,0 +1,9 @@
+.cart {
+  &_wrapper {
+    max-height: 400px;
+    overflow-y: auto;
+  }
+  &_body {
+    min-width: 380px;
+  }
+}

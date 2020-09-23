@@ -1,0 +1,12 @@
+.header {
+  &_content {
+    margin: 0px !important;
+    padding: 10px 0px;
+  }
+}
+
+.search_bar {
+  input[type="text"] {
+    border: 1px solid #68b423;
+  }
+}
